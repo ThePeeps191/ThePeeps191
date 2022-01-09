@@ -3,7 +3,7 @@
 Welcome to my GitHub page! I am a middle-school programmer who is a <b>MONKEY FANATIC</b>!!!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThePeeps191&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePeeps191&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePeeps191&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 My main languages are Python and Javascript. I am mostly a self-taught developer.
 
