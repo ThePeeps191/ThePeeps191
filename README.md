@@ -11,7 +11,7 @@ My main languages are Python and Javascript and I make websites with HTML and CS
 
 My main project(s) are:
 <ul>
-  ~~<li><a href="https://monkeyed.repl.co" target="_blank">MonkeyED</a></li>~~ I know focus mostly on <a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a>!
+  <strike><li><a href="https://monkeyed.repl.co" target="_blank">MonkeyED</a></li></strike> I know focus mostly on <a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a>!
   <li><a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a></li>
   <a href="https://monkeys101.github.io" target="_blank">Monkeys101</a>
   <a href="https://simianclub.github.io/westmount-times" target="_blank">Westmount Times</a>
