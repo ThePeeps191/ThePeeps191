@@ -8,7 +8,7 @@ Welcome to my GitHub page! I am a middle-school programmer who is a <b>MONKEY FA
 
 My main languages are Python and Javascript and I make websites with HTML and CSS. I am currently learning Go, and I am mostly a self-taught developer and I am also currently learning C/C++.
 
-[![Learnmonkey Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=learnmonkey&repo=learnmonkey.github.io&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Learnmonkey Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=learnmonkey&repo=learnmonkey.github.io&theme=nightowl)](https://github.com/learnmonkey/learnmonkey.github.io)
 
 # Projects
 
