@@ -16,7 +16,7 @@ My main project(s) are:
   <li><a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a></li>
   <li><a href="https://monkeys101.github.io" target="_blank">Monkeys101</a></li>
   <li><a href="https://simianclub.github.io/westmount-times" target="_blank">Westmount Times</a></li>
-  <li><a href="https://github.com/simianclub" target="_blank">Everything Else On The Simian Club</a></li>
+  <li><a href="https://github.com/simianclub" target="_blank">Everything Else On The Simian Club Organization</a></li>
 </ul>
 
 # Contact
