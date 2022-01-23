@@ -31,6 +31,7 @@ My main project(s) are:
   <li>Web Dev!</li>
   <li>Game Dev!</li>
   <li>Hacking hehehe</li>
+  <li>Competitive Programming</li>
 </ul>
 
 # Contact
