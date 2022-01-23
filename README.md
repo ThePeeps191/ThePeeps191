@@ -12,12 +12,15 @@ My main languages are Python and Javascript and I make websites with HTML and CS
 
 [![Learnmonkey Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=learnmonkey&repo=learnmonkey.github.io&theme=nightowl)](https://github.com/learnmonkey/learnmonkey.github.io)
 
+[![DMOJ Solutions Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=dmoj-solutions&theme=nightowl)](https://github.com/ThePeeps191/dmoj-solutions)
+
 # Projects
 
 My main project(s) are:
 <ul>
   <strike><li><a href="https://monkeyed.repl.co" target="_blank">MonkeyED</a></strike> I now focus mostly on <a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a>!</li>
   <li><a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a></li>
+  <li><a href="https://github.com/ThePeeps191/dmoj-solutions" target="_blank">DMOJ Solutions</a></li>
   <li><a href="https://monkeys101.github.io" target="_blank">Monkeys101</a></li>
   <li><a href="https://simianclub.github.io/westmount-times" target="_blank">Westmount Times</a></li>
   <li><a href="https://github.com/simianclub" target="_blank">Everything Else On The Simian Club Organization</a></li>
