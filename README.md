@@ -45,3 +45,10 @@ My friend, <a href="https://github.com/calgary34">Aaron</a> is a programmer frie
 # Portfolio
 
 Find my portfolio at my <a href="https://thepeeps191.github.io">Github Pages</a> site
+
+# Skills
+- Python
+- JavaScript
+- HTML
+- CSS
+- And More!
