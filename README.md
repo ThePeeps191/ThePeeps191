@@ -14,6 +14,8 @@ My main languages are Python and Javascript and I make websites with HTML and CS
 
 [![DMOJ Solutions Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=dmoj-solutions&theme=nightowl)](https://github.com/ThePeeps191/dmoj-solutions)
 
+# Skills
+
 # Projects
 
 My main project(s) are:
@@ -45,10 +47,3 @@ My friend, <a href="https://github.com/calgary34">Aaron</a> is a programmer frie
 # Portfolio
 
 Find my portfolio at my <a href="https://thepeeps191.github.io">Github Pages</a> site
-
-# Skills
-- Python
-- JavaScript
-- HTML
-- CSS
-- And More!
