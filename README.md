@@ -1,7 +1,7 @@
 # Hey There!
 
 Hey! Welcome to my GitHub account! I am a middle-school programmer who is a <b>MONKEY FANATIC :monkey::monkey::monkey:</b>!!!
-My main languages are Python and Javascript and I make websites with HTML and CSS. I am currently learning Go, and I am mostly a self-taught developer and I am also currently learning C/C++. Find a complete list of my skills <a href="/">below</a>.
+My main languages are Python and Javascript and I make websites with HTML and CSS. I am currently learning Go, and I am mostly a self-taught developer and I am also currently learning C/C++. Find a complete list of my skills <a href="#skills">below</a>.
 
 # Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThePeeps191&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
