@@ -1,6 +1,6 @@
 <style>
-  html {
-    scroll-behavior: smooth;
+  body {
+    font-family: monospace;
   }
 </stle>
 
