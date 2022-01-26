@@ -1,9 +1,3 @@
-<style>
-  body {
-    font-family: monospace;
-  }
-</stle>
-
 # Hey There!
 
 Hey! Welcome to my GitHub account! I am a middle-school programmer who is a <b>MONKEY FANATIC :monkey::monkey::monkey:</b>!!!
