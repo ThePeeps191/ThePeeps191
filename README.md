@@ -1,4 +1,4 @@
-# ThePeeps191
+# Ahoy!
 
 Hey! Welcome to my GitHub page! I am a middle-school programmer who is a <b>MONKEY FANATIC :monkey:</b>!!!
 My main languages are Python and Javascript and I make websites with HTML and CSS. I am currently learning Go, and I am mostly a self-taught developer and I am also currently learning C/C++.
