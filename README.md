@@ -10,6 +10,8 @@ My main languages are Python and Javascript and I make websites with HTML and CS
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePeeps191&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![gg Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=gg&theme=nightowl)](https://github.com/ThePeeps191/gg)
+
 [![Learnmonkey Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=learnmonkey&repo=learnmonkey.github.io&theme=nightowl)](https://github.com/learnmonkey/learnmonkey.github.io)
 
 [![DMOJ Solutions Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=dmoj-solutions&theme=nightowl)](https://github.com/ThePeeps191/dmoj-solutions)
