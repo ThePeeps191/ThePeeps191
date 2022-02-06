@@ -4,7 +4,7 @@ Hello everyone! I am a mostly self-taught middle-school programmer and started p
 
 My main language is Python and JavaScript (Vanilla and Node), but I sometimes use HTML and CSS in web dev. I also know C and Go, and I am currently learning C++ too!
 
-Find a complete list of my skills <a href="#skills">below</a>. I also like to "hack" GitHub to get "free" commits 😉. I often put my school work as websites on my GitHub account.
+Find a complete list of my skills <a href="#skills">below</a>. I also like to "hack" GitHub to get "free" commits 😏. I often put my school work as websites on my GitHub account.
 
 # Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThePeeps191&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
