@@ -6,6 +6,8 @@ My main language is Python and JavaScript (Vanilla and Node), but I sometimes us
 
 Find a complete list of my skills <a href="#skills">below</a>. I also like to "hack" GitHub to get "free" commits 😏. I often put my school work as websites on my GitHub account.
 
+<img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> 
+
 # Github Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThePeeps191&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
