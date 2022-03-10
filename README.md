@@ -51,6 +51,7 @@ Send me an email at <a href="mailto:wang.da@wcs-g.com">wang.da@wcs-g.com</a>
 # Programmer Friends
 
 My friend, <a href="https://github.com/calgary34">Aaron</a> is a programmer friend of mine. Check him out!! We often collab on projects.
+Check out <a href="https://github.com/EnderRose">my other friend's</a> GitHub page too! :).
 
 # Portfolio
 
