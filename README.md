@@ -38,7 +38,7 @@ My main project(s) are:
   <li><a href="https://github.com/simianclub" target="_blank">Everything Else On The Simian Club Organization</a></li>
 </ul>
 
-# What I Like
+# What I Like In Programming
 <ul>
   <li>Web Dev!</li>
   <li>Game Dev!</li>
