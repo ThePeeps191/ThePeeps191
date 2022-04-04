@@ -1,6 +1,6 @@
 # Hey There!
 
-Hello everyone! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python.
+Hello everyone! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently practicing to compete in the 2023 CCC Senior. :)
 
 My main language is Python and JavaScript (Vanilla and Node), but I sometimes use HTML and CSS in web dev. I also know C and Go, and I am currently learning C++ too!
 
