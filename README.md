@@ -2,7 +2,7 @@
 
 Hello everyone! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently practicing to compete in the 2023 CCC Senior. :)
 
-My main language is Python and JavaScript (Vanilla and Node), but I sometimes use HTML and CSS in web dev. I also know C and Go, and I am currently learning C++ too!
+My main language is Python and JavaScript (Vanilla and Node), but I sometimes use HTML and CSS in web dev. I also know C and Go, and I am currently learning C++ too! I'm also learning Unity for some gave development.
 
 Find a complete list of my skills <a href="#skills">below</a>. I also like to "hack" GitHub to get "free" commits 😏.
 
@@ -30,13 +30,9 @@ Find a complete list of my skills <a href="#skills">below</a>. I also like to "h
 
 My main project(s) are:
 <ul>
-  <strike><li><a href="https://monkeyed.repl.co" target="_blank">MonkeyED</a></strike> I work on <a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a>!</li>
-  <li><a href="https://learnmonkey.github.io" target="_blank">Learnmonkey</a></li>
   <li><a href="https://github.com/ThePeeps191/dmoj-solutions" target="_blank">DMOJ Solutions</a></li>
   <li><a href="https://github.com/ThePeeps191/online-judge-solutions" target="_blank">Online Judge Solutions</a></li>
-  <!--<li><a href="https://monkeys101.github.io" target="_blank">Monkeys101</a></li>
-  <li><a href="https://simianclub.github.io/westmount-times" target="_blank">Westmount Times</a></li>
-  <li><a href="https://github.com/simianclub" target="_blank">Everything Else On The Simian Club Organization</a></li>-->
+  <li>All I really do is for CCC and C++ practice so this is really all I do right now. lol</li>
 </ul>
 
 # What I Like In Programming
