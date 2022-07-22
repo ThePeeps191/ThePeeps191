@@ -2,7 +2,7 @@
 
 Hello everyone! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently practicing to compete in the 2023 CCC Senior. :)
 
-My main language is Python and JavaScript (Vanilla and Node), but I sometimes use HTML and CSS in web dev. I also know C and Go, and I am currently learning C++ too! I'm also learning Unity for some gave development.
+My main languages are Python and C++, but I sometimes use HTML, JavaScript, and CSS in web dev. I also know C (duh lol) and Go, and I am currently learning to get better at C++ for the CCC too! I'm also learning Unity for some game development.
 
 Find a complete list of my skills <a href="#skills">below</a>. I also like to "hack" GitHub to get "free" commits 😏.
 
@@ -33,7 +33,7 @@ My main project(s) are:
   <li><a href="https://github.com/ThePeeps191/dmoj-solutions" target="_blank">DMOJ Solutions</a></li>
   <li><a href="https://github.com/ThePeeps191/online-judge-solutions" target="_blank">Online Judge Solutions</a></li>
   <li>All I really do is for CCC and C++ practice so this is really all I do right now. lol</li>
-  <li>Learning Unity with the GMTK2022!!</li>
+  <li>Learning Unity with the GMTK2022!! - done!</li>
 </ul>
 
 # What I Like In Programming
