@@ -1,10 +1,12 @@
 # Hey There!
 
-Hi monkeys! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently practicing to compete in the 2023 CCC Senior. :)
+Hi monkeys! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! :)
 
-My main languages are Python and C++, but I sometimes use HTML, JavaScript, and CSS in web dev. I also know C (duh lol) and Go, and I am currently learning to get better at C++ for the CCC too! I'm also learning Unity for some game development.
+My main languages are Python and C++, but I sometimes use HTML, JavaScript, and CSS in web dev. I also know C (duh lol) and Go, and I am currently learning to get better at C++ for the competitive too! I'm also learning Unity for some game development on the side.
 
 Find a complete list of my skills <a href="#skills">below</a>. I also like to "hack" GitHub to get "free" commits 😏.
+
+<b>Edit: </b>I'm taking a short break from GitHub to practice for competitive programming, but I'm planning to get more active now!
 
 <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" />
 
