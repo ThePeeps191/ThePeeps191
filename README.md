@@ -4,7 +4,7 @@
 
 Hi monkeys! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! :)
 
-My main languages are Python and C++, but I sometimes use HTML, JavaScript, and CSS in web dev. I also know C (duh lol) and Go, and I am currently learning to get better at C++ for the competitive too! I'm also learning Unity for some game development on the side.
+My main languages are Python and C++, but I sometimes use HTML, JavaScript, and CSS in web dev. I also know C (from C++) and Go, and I am currently learning to get better at C++ for the competitive too! I'm also learning Unity for some game development on the side but currently taking a break from game development to get better at Competitive Programming.
 
 Find a complete list of my skills <a href="#skills">below</a>. I also like to "hack" GitHub to get "free" commits 😏.
 
@@ -36,7 +36,7 @@ My main project(s) are:
 <ul>
   <li><a href="https://github.com/ThePeeps191/dmoj-solutions" target="_blank">DMOJ Solutions</a></li>
   <li><a href="https://github.com/ThePeeps191/online-judge-solutions" target="_blank">Online Judge Solutions</a></li>
-  <li>All I really practice is for CCC (Canadian Computing Competition) and C++ practice so this is really all I do right now. lol</li>
+  <li>All I really practice is for CCC (Canadian Computing Competition) and C++ practice so this is really all I do right now</li>
   <li>Learning Unity with the GMTK2022!! - done!</li>
 </ul>
 
@@ -44,7 +44,7 @@ My main project(s) are:
 <ul>
   <li>Web Dev!</li>
   <li>Game Dev!</li>
-  <li>Hacking hehehe</li>
+  <li>Hacking (on the fun side)</li>
   <li>Competitive Programming</li>
   <li>Random Projects</li>
 </ul>
