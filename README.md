@@ -1,5 +1,7 @@
 ![Header](header.png)
 
+![Programming Joke](https://readme-jokes.vercel.app/api)
+
 # Hey There!
 
 Hi monkeys! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! :)
