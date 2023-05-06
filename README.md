@@ -48,7 +48,7 @@ My main project(s) are:
 </ul>
 
 # StackOverflow Profile
-[![ThePeeps191 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14615528)](https://stackoverflow.com/users/14615528/the-peeps191)
+[![ThePeeps191 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14615528&theme=dark)](https://stackoverflow.com/users/14615528/the-peeps191)
 
 # Contact
 
