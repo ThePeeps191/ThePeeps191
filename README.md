@@ -34,7 +34,7 @@ My main project(s) are:
 <ul>
   <li><a href="https://github.com/ThePeeps191/dmoj-solutions" target="_blank">DMOJ Solutions</a></li>
   <li><a href="https://github.com/ThePeeps191/online-judge-solutions" target="_blank">Online Judge Solutions</a></li>
-  <li>All I really do is for CCC and C++ practice so this is really all I do right now. lol</li>
+  <li>All I really practice is for CCC (Canadian Computing Competition) and C++ practice so this is really all I do right now. lol</li>
   <li>Learning Unity with the GMTK2022!! - done!</li>
 </ul>
 
@@ -44,6 +44,7 @@ My main project(s) are:
   <li>Game Dev!</li>
   <li>Hacking hehehe</li>
   <li>Competitive Programming</li>
+  <li>Random Projects</li>
 </ul>
 
 # Contact
