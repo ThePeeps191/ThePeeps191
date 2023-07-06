@@ -18,6 +18,7 @@ Find a complete list of my skills <a href="#skills">below</a>.
 
 <h3>⚡Recent GitHub Activity</h3>
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!---<img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" />--->
 
