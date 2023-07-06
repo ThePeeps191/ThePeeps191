@@ -60,4 +60,4 @@ Send me an email at <a href="mailto:wang.da@wcs-g.com">wang.da@wcs-g.com</a>
 
 # Portfolio
 
-Find my portfolio at my <a href="https://thepeeps191.github.io">Github Pages</a> site
+Find my portfolio website at <a href="https://thepeeps191.github.io">https://thepeeps191.github.io</a>
