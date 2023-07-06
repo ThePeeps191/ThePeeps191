@@ -16,6 +16,9 @@ Find a complete list of my skills <a href="#skills">below</a>.
 
 <b>Edit: </b>I'm taking a short break from GitHub to practice for competitive programming, but I'm planning to get more active now!
 
+# ⚡Recent Github Activity
+<!--START_SECTION:activity-->
+
 <!---<img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" />--->
 
 # Github Stats
@@ -25,13 +28,13 @@ Find a complete list of my skills <a href="#skills">below</a>.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePeeps191&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![gg Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=gg&theme=nightowl)](https://github.com/ThePeeps191/gg)
+<!---[![gg Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=gg&theme=nightowl)](https://github.com/ThePeeps191/gg)
 
 [![Learnmonkey Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=learnmonkey&repo=learnmonkey.github.io&theme=nightowl)](https://github.com/learnmonkey/learnmonkey.github.io)
 
 [![DMOJ Solutions Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=dmoj-solutions&theme=nightowl)](https://github.com/ThePeeps191/dmoj-solutions)
 
-[![Online Judge UVA Solutions Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=online-judge-solutions&theme=nightowl)](https://github.com/ThePeeps191/online-judge-solutions)
+[![Online Judge UVA Solutions Repo Details](https://github-readme-stats.vercel.app/api/pin/?username=ThePeeps191&repo=online-judge-solutions&theme=nightowl)](https://github.com/ThePeeps191/online-judge-solutions)--->
 
 # Skills
 
