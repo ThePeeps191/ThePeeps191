@@ -1,4 +1,4 @@
-
+<img src="waves.svg" alt="Waves">
 <!---![Header](header.png)--->
 
 <!---![Programming Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)--->
