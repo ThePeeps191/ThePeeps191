@@ -4,7 +4,7 @@
 <!---![Programming Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)--->
 
 <img src="name.svg" alt="Danny Wang">
-<center>
+
 <h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1.3em;width:1.3em;"></h1>
 <!---<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>--->
 
@@ -69,4 +69,6 @@ Send me an email at <a href="mailto:wang.da@wcs-g.com">wang.da@wcs-g.com</a>
 # Portfolio
 
 Find my portfolio website at <a href="https://thepeeps191.github.io">https://thepeeps191.github.io</a>
-</center>
+
+
+
