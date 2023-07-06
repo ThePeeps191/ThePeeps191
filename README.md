@@ -5,7 +5,7 @@
 
 <img src="name.svg" alt="Danny Wang">
 
-<h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1em;width:1em;"></h1>
+<h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1.3em;width:1.3em;"></h1>
 <!---<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>--->
 
 Hi! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! 😄 You can also check out my portfolio website <a href="https://thepeeps191.github.io">here</a>.
