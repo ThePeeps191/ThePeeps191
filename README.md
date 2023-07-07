@@ -16,15 +16,6 @@ Find a complete list of my skills <a href="#skills">below</a>.
 
 <b>Edit: </b>I'm taking a short break from GitHub to practice for competitive programming, but I'm planning to get more active now!
 
-<h3>⚡Recent GitHub Activity</h3>
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1061](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1061) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-2. ❗ Opened issue [#3323](https://github.com/marcizhu/marcizhu/issues/3323) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗ Opened issue [#32232](https://github.com/timburgan/timburgan/issues/32232) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗ Opened issue [#1964](https://github.com/benjaminsampica/benjaminsampica/issues/1964) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. 🔒 Closed issue [#1963](https://github.com/benjaminsampica/benjaminsampica/issues/1963) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-<!--END_SECTION:activity-->
-
 <!---<img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" />--->
 
 # Github Stats
