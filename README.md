@@ -8,7 +8,7 @@
 <h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1.3em;width:1.3em;"></h1>
 <!---<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>--->
 
-Hi! I am a mostly self-taught middle-school programmer and started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! 😄 You can also check out my portfolio website <a href="https://thepeeps191.github.io">here</a>.
+Hi! I am a mostly self-taught programmer, and I started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! 😄 You can also check out my portfolio website <a href="https://thepeeps191.github.io">here</a>.
 
 My main languages are Python and C++, but I can use HTML, JavaScript, and CSS in web dev. I also know C (from C++) and Go. I'm also learning Unity for some game development on the side but currently taking a break from game development to get better at competitive programming.
 
