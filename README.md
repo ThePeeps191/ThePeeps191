@@ -46,6 +46,7 @@ My main project(s) are:
   <li><a href="https://github.com/ThePeeps191/online-judge-solutions" target="_blank">Online Judge Solutions</a></li>
   <li>All I really practice is for CCC (Canadian Computing Competition) and C++ practice so this is really all I do right now</li>
 </ul>
+You can also find my portfolio website at <a href="https://thepeeps191.github.io">https://thepeeps191.github.io</a> though I am currently in the process of updating it.
 
 # What I Like In Programming
 <ul>
