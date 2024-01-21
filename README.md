@@ -61,7 +61,7 @@ You can also find my portfolio website at <a href="https://thepeeps191.github.io
 
 # Contact
 
-Send me an email at <a href="mailto:wang.da@wcs-g.com">wang.da@wcs-g.com</a>
+Send me an email at <a href="mailto:monkeycoder191@gmail.com">monkeycoder191@gmail.com</a>
 
 # Portfolio
 
