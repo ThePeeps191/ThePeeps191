@@ -8,7 +8,7 @@
 <h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1.3em;width:1.3em;"></h1>
 <!---<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>--->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There!;SI+am+ThePeeps191)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 Hi! I am a mostly self-taught programmer, and I started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! 😄 You can also check out my portfolio website <a href="https://thepeeps191.github.io">here</a>.
 
