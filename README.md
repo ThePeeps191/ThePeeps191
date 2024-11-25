@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
-Hi! I am a mostly self-taught programmer, and I started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! 😄 You can also check out my portfolio website <a href="https://thepeeps191.github.io">here</a>.
+Hi! I am a programmer, and I started programming in Grade 2/3 with Python. I'm currently getting better at C++ and competitive programming! 😄 You can also check out my portfolio website <a href="https://thepeeps191.github.io">here</a>.
 
 My main languages are Python and C++, but I can use HTML, JavaScript, and CSS in web dev. I also know C (from C++) and Go. I'm also learning Unity for some game development on the side but currently taking a break from game development to get better at competitive programming.
 
