@@ -23,8 +23,6 @@ Find a complete list of my skills <a href="#skills">below</a>.
 <!---<img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" /> <img alt="MONKEY" src="https://img.shields.io/badge/🐒🐒🐒🐒MONKEY!!!!!!!!-brown.svg?style=for-the-badge" />--->
 
 # Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ThePeeps191&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThePeeps191&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePeeps191&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
