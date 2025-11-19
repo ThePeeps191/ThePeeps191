@@ -52,9 +52,10 @@ You can also find my portfolio website at <a href="https://thepeeps191.github.io
 
 # What I Like In Programming
 <ul>
+  <li>Competitive Programming</li>
+  <li>Machine Learning & AI Development</li>
   <li>Web Dev!</li>
   <li>Game Dev!</li>
-  <li>Competitive Programming</li>
   <li>Random Projects</li>
 </ul>
 
