@@ -44,8 +44,8 @@ Find a complete list of my skills <a href="#skills">below</a>.
 
 My main project(s) are:
 <ul>
-  <li><a href="https://github.com/ThePeeps191/dmoj-solutions" target="_blank">DMOJ Solutions</a></li>
-  <li><a href="https://github.com/ThePeeps191/online-judge-solutions" target="_blank">Online Judge Solutions</a></li>
+  <li><a href="https://thepeeps191.github.io/ccc/" target="_blank">CCC Solutions (WIP)</a></li>
+  <li><a href="https://thepeeps191.github.io/codeforces/" target="_blank">Codeforces Solutions (WIP)</a></li>
   <li>All I really practice is for CCC (Canadian Computing Competition) and C++ practice so this is really all I do right now</li>
 </ul>
 You can also find my portfolio website at <a href="https://thepeeps191.github.io">https://thepeeps191.github.io</a> though I am currently in the process of updating it.
