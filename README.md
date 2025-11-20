@@ -52,7 +52,7 @@ You can also find my portfolio website at <a href="https://thepeeps191.github.io
 
 ### Past Projects
 <ul>
-  <li><a href="https://learnmonkey.github.io/ target="_blank">Learnmonkey</a></li>
+  <li><a href="https://learnmonkey.github.io/" target="_blank">Learnmonkey</a></li>
 </ul>
 
 # What I Like In Programming
