@@ -46,7 +46,7 @@ My main project(s) are:
 <ul>
   <li><a href="https://thepeeps191.github.io/ccc/" target="_blank">CCC Solutions (WIP)</a></li>
   <li><a href="https://thepeeps191.github.io/codeforces/" target="_blank">Codeforces Solutions (WIP)</a></li>
-  <li>All I really practice is for CCC (Canadian Computing Competition) and C++ practice so this is really all I do right now</li>
+  <li>I am currently more focused on competitive programming and C++ practice so my projects list is pretty bare right now.</li>
 </ul>
 You can also find my portfolio website at <a href="https://thepeeps191.github.io">https://thepeeps191.github.io</a> though I am currently in the process of updating it.
 
