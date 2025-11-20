@@ -49,6 +49,7 @@ My main project(s) are:
   <li>I am currently more focused on competitive programming and C++ practice so my projects list is pretty bare right now.</li>
 </ul>
 You can also find my portfolio website at <a href="https://thepeeps191.github.io">https://thepeeps191.github.io</a> though I am currently in the process of updating it.
+### Past Projects
 
 # What I Like In Programming
 <ul>
