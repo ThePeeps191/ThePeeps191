@@ -59,9 +59,8 @@ You can also find my portfolio website at <a href="https://thepeeps191.github.io
   <li>Random Projects</li>
 </ul>
 
-# StackOverflow Profile
-[![ThePeeps191 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14615528&theme=dark)](https://stackoverflow.com/users/14615528/the-peeps191)
-
+<!--# StackOverflow Profile
+[![ThePeeps191 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14615528&theme=dark)](https://stackoverflow.com/users/14615528/the-peeps191)-->
 # Contact
 
 Send me an email at <a href="mailto:monkeycoder191@gmail.com">monkeycoder191@gmail.com</a>
