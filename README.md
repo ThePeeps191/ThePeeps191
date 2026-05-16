@@ -12,7 +12,7 @@
 
 Hi! I am a programmer, and I've been coding for over half of my life. My main languages are Python and C++, but I have experience with a plethora of other languages and frameworks.
 - I'm currently getting better at C++ and competitive programming! 😄
-- You can also check out my portfolio website <a href="https://thepeeps191.github.io">here</a>.
+- You can also check out my portfolio website <a href="https://dannywang.dev">here</a>.
 
 Find a complete list of my skills <a href="#skills">below</a>.
 
@@ -48,7 +48,7 @@ My main project(s) are:
   <li><a href="https://thepeeps191.github.io/codeforces/" target="_blank">Codeforces Solutions (WIP)</a></li>
   <li>I am currently more focused on competitive programming and C++ practice so my projects list is pretty bare right now.</li>
 </ul>
-You can also find my portfolio website at <a href="https://thepeeps191.is-a.dev">https://thepeeps191.is-a.dev</a> though I am currently in the process of updating it.
+You can also find my portfolio website and resume at <a href="https://dannywang.dev">https://dannywang.dev</a>.
 
 ### Past Projects
 <ul>
@@ -72,7 +72,7 @@ Send me an email at <a href="mailto:monkeycoder191@gmail.com">monkeycoder191@gma
 
 # Portfolio
 
-Find my portfolio website at <a href="https://thepeeps191.is-a.dev">https://thepeeps191.is-a.dev</a>
+Find my portfolio website at <a href="https://dannywang.dev">https://dannywang.dev</a>
 
 
 
