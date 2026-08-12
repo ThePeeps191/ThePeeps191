@@ -10,10 +10,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
-Hi! I am a software developer and Full IB student at Sir Winston Churchill High School. I've been coding for over half of my life with strong experience with Python, C++, and HTML/CSS/Javascript in a plethora of applications including full stack development, machine learning + AI research, and competitive programming.
+Hi! I am a software developer and Full IB student at Sir Winston Churchill High School. I've been coding for over half of my life (8+ years!!) and have strong experience with Python, C++, and HTML/CSS/Javascript in a plethora of applications including full stack development, machine learning + AI research, and competitive programming.
 - You can check out my portfolio website <a href="https://dannywang.dev">here</a>.
+- <a href="https://dannywang.dev/dannywang_resume.pdf">View My Resume</a>
+- I'm always open to collaboration and new opportunities to learn and grow - feel free to <a href="mailto:dannywang930@gmail.com">contact me</a>.
 
-Find a complete list of my skills <a href="#skills">below</a>.
+Find a general list of my skills <a href="#skills">below</a>.
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=danny.wang&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/danny.wang)
 
@@ -39,35 +41,34 @@ Find a complete list of my skills <a href="#skills">below</a>.
 <!---img alt="Watching Youtube" src="https://img.shields.io/badge/watching%20youtube-red.svg?style=for-the-badge&logo=youtube&Color=white" /> <img alt="Why Is My Code Now Working???" src="https://img.shields.io/badge/why%20is%20my%20code%20not%20working-darkgreen.svg?style=for-the-badge&logo=stack-overflow&logoColor=white" /> <img alt="Ruby" src="https://img.shields.io/badge/ruby-darkred.svg?style=for-the-badge&logo=ruby&logoColor=white" />--->
 # Projects
 
-My main project(s) are:
+Currently, I'm working on:
 <ul>
-  <li><a href="https://thepeeps191.github.io/ccc/" target="_blank">CCC Solutions (WIP)</a></li>
-  <li><a href="https://thepeeps191.github.io/codeforces/" target="_blank">Codeforces Solutions (WIP)</a></li>
-  <li>I am currently more focused on competitive programming and C++ practice so my projects list is pretty bare right now.</li>
+  <li><a href="https://github.com/Tensorbit-Labs/tensorbit-core" target="_blank">Tensorbit Core</a></li>
+  <li><a href="https://github.com/ThePeeps191/cosine-similarity-distillation" target="_blank">Cosine Similarity Distillation</a></li>
+  <li>Competitive Programming with the goal of qualifying for the IOI</li>
+  <li>Competitive Math with the goal of qualifying for the CMO and USAMO</li>
 </ul>
-You can also find my portfolio website and resume at <a href="https://dannywang.dev">https://dannywang.dev</a>.
 
-### Past Projects
+<!--### Past Projects
 <ul>
   <li><a href="https://learnmonkey.github.io/" target="_blank">Learnmonkey</a></li>
-</ul>
+</ul>-->
 
-# What I Like In Programming
+<!--# What I Like In Programming
 <ul>
   <li>Competitive Programming</li>
   <li>Machine Learning & AI Development</li>
   <li>Web Dev!</li>
   <li>Game Dev!</li>
-  <li>Random Projects</li>
-</ul>
+</ul>-->
 
 <!--# StackOverflow Profile
 [![ThePeeps191 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14615528&theme=dark)](https://stackoverflow.com/users/14615528/the-peeps191)-->
 # Contact
 
-Send me an email at <a href="mailto:monkeycoder191@gmail.com">monkeycoder191@gmail.com</a>
+Send me an email at <a href="mailto:dannywang930@gmail.com">dannywang930@gmail.com</a>
 
-# Portfolio
+# Website
 
 Find my portfolio website at <a href="https://dannywang.dev">https://dannywang.dev</a>
 
