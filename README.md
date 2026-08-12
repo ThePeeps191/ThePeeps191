@@ -10,13 +10,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
-Hi! I am a programmer, and I've been coding for over half of my life. My main languages are Python and C++, but I have experience with a plethora of other languages and frameworks.
-- I'm currently getting better at C++ and competitive programming! 😄
-- You can also check out my portfolio website <a href="https://dannywang.dev">here</a>.
+Hi! I am a software developer and Full IB student at Sir Winston Churchill High School. I've been coding for over half of my life with strong experience with Python, C++, and HTML/CSS/Javascript in a plethora of applications including full stack development, machine learning + AI research, and competitive programming.
+- You can check out my portfolio website <a href="https://dannywang.dev">here</a>.
 
 Find a complete list of my skills <a href="#skills">below</a>.
-
-<b>Edit: </b>I'm taking a short break from GitHub to practice for competitive programming, but I'm planning to get more active now!
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=danny.wang&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/danny.wang)
 
