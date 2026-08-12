@@ -11,6 +11,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 Hi! I am a software developer and Full IB student at Sir Winston Churchill High School. I've been coding for over half of my life (8+ years!!) and have strong experience with Python, C++, and HTML/CSS/Javascript in a plethora of applications including full stack development, machine learning + AI research, and competitive programming.
+
+I love competitive programming and math competitions/olympiads, with a passion for problem solving, critical thinking, and novel creativity. My current goal for competitive programming is to qualify for the IOI, and my competitive math goal is to qualify for the CMO and USAMO.
+
 - You can check out my portfolio website <a href="https://dannywang.dev">here</a>.
 - <a href="https://dannywang.dev/dannywang_resume.pdf">View My Resume</a>
 - I'm always open to collaboration and new opportunities to learn and grow - feel free to <a href="mailto:dannywang930@gmail.com">contact me</a>.
@@ -45,8 +48,7 @@ Currently, I'm working on:
 <ul>
   <li><a href="https://github.com/Tensorbit-Labs/tensorbit-core" target="_blank">Tensorbit Core</a></li>
   <li><a href="https://github.com/ThePeeps191/cosine-similarity-distillation" target="_blank">Cosine Similarity Distillation</a></li>
-  <li>Competitive Programming with the goal of qualifying for the IOI</li>
-  <li>Competitive Math with the goal of qualifying for the CMO and USAMO</li>
+  <li>Find more on my portfolio website!</li>
 </ul>
 
 <!--### Past Projects
