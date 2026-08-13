@@ -5,8 +5,8 @@
 
 <img src="name.svg" alt="Danny Wang">
 
-![2x AIME Qual](https://img.shields.io/badge/2x%20AIME%20Qual-555)
 ![Calgary, CA](https://img.shields.io/badge/Calgary%2C%20CA-C8102E)
+![2x AIME Qual](https://img.shields.io/badge/2x%20AIME%20Qual-555)
 ![1842 CF](https://img.shields.io/badge/1842%20CF-4B5563)
 ![USACO Gold](https://img.shields.io/badge/USACO%20Gold-8B7355)
 ![4.0 GPA](https://img.shields.io/badge/4.0%20GPA-6B5B95)
