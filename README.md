@@ -5,6 +5,8 @@
 
 <img src="name.svg" alt="Danny Wang">
 
+![2x AIME Qual](https://img.shields.io/badge/2x_AIME_Qual-any_text-555?style=for-the-badge)
+
 <h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1.3em;width:1.3em;"></h1>
 <!---<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>--->
 
@@ -68,11 +70,13 @@ Currently, I'm working on:
 [![ThePeeps191 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14615528&theme=dark)](https://stackoverflow.com/users/14615528/the-peeps191)-->
 # Contact
 
-Send me an email at <a href="mailto:dannywang930@gmail.com">dannywang930@gmail.com</a>
+Send me an email at <a href="mailto:dannywang930@gmail.com">dannywang930@gmail.com</a>.
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thepeeps191/)
 
 # Website
 
-Find my portfolio website at <a href="https://dannywang.dev">https://dannywang.dev</a>
+Find my portfolio website at <a href="https://dannywang.dev">https://dannywang.dev</a>.
 
 
 
