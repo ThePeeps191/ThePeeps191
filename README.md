@@ -5,7 +5,7 @@
 
 <img src="name.svg" alt="Danny Wang">
 
-![2x AIME Qual](https://img.shields.io/badge/2x_AIME_Qual-any_text-555?style=for-the-badge)
+![2x AIME Qual](https://img.shields.io/badge/2x%20AIME%20Qual-555)
 
 <h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1.3em;width:1.3em;"></h1>
 <!---<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>--->
