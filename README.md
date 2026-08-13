@@ -5,11 +5,13 @@
 
 <img src="name.svg" alt="Danny Wang">
 
+<div align="center">
 ![Calgary, CA](https://img.shields.io/badge/Calgary%2C%20CA-C8102E)
 ![2x AIME Qual](https://img.shields.io/badge/2x%20AIME%20Qual-555)
 ![1842 CF](https://img.shields.io/badge/1842%20CF-4B5563)
 ![USACO Gold](https://img.shields.io/badge/USACO%20Gold-8B7355)
 ![4.0 GPA](https://img.shields.io/badge/4.0%20GPA-6B5B95)
+</div>
 
 <h1>Hey There! <img src="rocket.svg" alt="Rocket" style="height:1.3em;width:1.3em;"></h1>
 <!---<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>--->
