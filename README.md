@@ -16,7 +16,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+There!;Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
-Hi! I am a software developer and Grade 11 Full IB student at Sir Winston Churchill High School. I've been coding for over half of my life (8+ years!!) and have strong experience with Python, C++, and HTML/CSS/Javascript in a plethora of applications including full stack development, machine learning + AI research, and competitive programming.
+Hi! I am a software developer and Grade 11 Full IB student at Sir Winston Churchill High School. I have been coding for over half of my life (8+ years!!) and have strong experience with Python, C++, and HTML/CSS/Javascript in a plethora of applications including full stack development, machine learning + AI research, and competitive programming.
 
 I love competitive programming and math competitions/olympiads, with a passion for problem solving, critical thinking, and novel creativity. My current goal for competitive programming is to qualify for the IOI, and my competitive math goal is to qualify for the CMO and USAMO.
 
