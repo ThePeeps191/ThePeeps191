@@ -3,9 +3,9 @@
 
 <!---![Programming Joke](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)--->
 
-<img src="name.svg" alt="Danny Wang">
-
 <div align="center">
+
+<img src="name.svg" alt="Danny Wang">
   
 ![Calgary, CA](https://img.shields.io/badge/Calgary%2C%20CA-C8102E)
 ![2x AIME Qual](https://img.shields.io/badge/2x%20AIME%20Qual-555)
